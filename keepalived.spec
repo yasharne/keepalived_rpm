@@ -1,9 +1,9 @@
-Name:			keepalived
-Version:		2.1.5        
+Name:		keepalived
+Version:	2.1.5        
 Release:        1%{?dist}
 Summary:        HA monitor built upon LVS, VRRP and services poller
 
-License:		GPL 
+License:	GPL 
 URL:            http://www.keepalived.org/
 Source0:        https://keepalived.org/software/keepalived-2.1.5.tar.gz
 BuildRoot:		%{_tmppath}/%{name}-%{version}-%{release}-root
